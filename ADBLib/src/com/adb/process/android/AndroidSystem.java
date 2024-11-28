@@ -105,7 +105,7 @@ import java.io.IOException;
  * [gsm.sim.operator.iso-country]: [cn]
  * [gsm.sim.operator.numeric]: [46001]
  * [gsm.sim.operator.orig.alpha]: [CHN-UNICOM]
- * [gsm.sim.state]: [LOADED,ABSENT]
+ * [gsm.sim.state]: [unlock]
  * [gsm.version.baseband]: [r3.9326.2-0518_2337_8c9ed8e,r3.9326.2-0518_2337_8c9ed8e]
  * [gsm.version.ril-impl]: [Qualcomm RIL 1.0]
  * [hwservicemanager.ready]: [true]
